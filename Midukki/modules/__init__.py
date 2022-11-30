@@ -225,12 +225,12 @@ class vars(object):
             button()
                 (
                     "Support",
-                        url="https://t.me/+sv5flNs7yew1OTk1"
+                        url="https://t.me/rawwallpaper"
                 ),
             button()
                 (
                     "Updates",
-                        url="https://t.me/Mo_Tech_YT"
+                        url="https://t.me/+5Uv1y0lLgDkxMTc1"
                 )
         ],
         [
@@ -304,24 +304,24 @@ class vars(object):
             button()
                 (
                     "Support",
-                        url="https://t.me/Mo_Tech_YT"
+                        url="https://t.me/rawwallpaper"
                 ),
             button()
                 (
                     "Source",
-                        url="https://t.me/+sv5flNs7yew1OTk1"
+                        url="https://t.me/+5Uv1y0lLgDkxMTc1"
                 )
         ],
         [
             button()
                 (
                     "Tutorial",
-                        url="https://youtu.be/63K9xkKMBoo"
+                        url="https://youtube.com/@anshadat3739"
                 ),
             button()
                 (
                     "Insta",
-                        url="https://www.instagram.com/mrk_yt_"
+                        url="https://www.instagram.com/ans._had_"
                 )
         ],
         [
