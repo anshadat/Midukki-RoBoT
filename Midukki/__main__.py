@@ -42,7 +42,7 @@ async def start_command(client: Midukki_RoboT, message: message()):
                 await message.reply(e)
         return
 
-    if message.text.startswith("/start muhammedrk"):
+    if message.text.startswith("/start anshadat"):
         if Configs.AUTH_CHANNEL != 1:
             invite_link = await client.create_chat_invite_link(int(Configs.AUTH_CHANNEL))
             try:
